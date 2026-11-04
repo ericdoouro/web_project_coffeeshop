@@ -1,0 +1,53 @@
+.footer {
+  background-color: #0a2850;
+  background-image: url("../images/background_recipes.svg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #ffffff;
+  padding: 40px 80px 24px;
+}
+
+.footer__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 40px;
+}
+
+.footer__logo {
+  width: 105px;
+  height: auto;
+}
+
+.footer__social-heading {
+  margin: 0 0 16px;
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.footer__social-links {
+  display: flex;
+  gap: 16px;
+}
+
+.footer__social-links img {
+  display: block;
+  width: 24px;
+  height: 24px;
+}
+
+.footer__copyright {
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  padding-top: 20px;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #ffffff;
+}
+
+.footer__copyright p {
+  margin: 0 0 8px;
+}
