@@ -1,47 +1,49 @@
-Cabeçalho
-Links de navegação
+# Café Especial Pingo de Ouro
 
-Receitas Reservar uma mesa Contatos
+## Sobre o projeto
 
-Título e descrição
+O Café Especial Pingo de Ouro é uma página web desenvolvida a partir do projeto Biblioteca Triple Peaks, da formação de Desenvolvimento Web da TripleTen.
 
-Café especial na biblioteca Triple Peaks Esta é nossa zona de estudo! Temos aquele cafezinho para energizar você e vibrações aconchegantes para soltar a criatividade.
+O projeto apresenta uma cafeteria fictícia integrada ao ambiente de uma biblioteca, com informações sobre o espaço, receitas de café e um formulário para reserva de mesas.
 
-Horário de funcionamento e endereço
+A proposta foi personalizar a estrutura original, aprimorando a identidade visual e a experiência de navegação.
 
-Horários: Segunda a sexta (10:00 – 19:00) Sábado a domingo (11:00 - 18:00)
+## Funcionalidades
 
-200 Success Avenue, a cidade de Triple Peaks
+- Apresentação da cafeteria e informações de funcionamento.
+- Navegação entre as seções da página.
+- Exibição de receitas de café por meio de vídeos incorporados do YouTube.
+- Formulário de reserva de mesas.
+- Rodapé com links para redes sociais.
 
-Seção: Receitas
-Título e descrição
+## Tecnologias utilizadas
 
-Receitas Confira algumas receitas que coletamos para seu lanchinho caseiro:
+- HTML5
+- CSS3
+- Flexbox
+- Normalize.css
+- Google Fonts
+- Git e GitHub
 
-texto iframe
+## Estrutura do projeto
 
-Receita Aeropress ~5 min Receita de Prensa Francesa ~15 min
+- `index.html`: estrutura principal da página.
+- `blocks/`: estilos CSS organizados por componentes.
+- `styles/`: estilos gerais.
+- `pages/`: organização dos estilos da página.
+- `images/`: imagens, ícones e elementos visuais.
+- `vendor/`: arquivos de normalização CSS.
 
-Seção: Reserva
-Título e descrição
+## Como executar o projeto
 
-Reservar uma mesa
+1. Clone este repositório:
+   `git clone https://github.com/ericdoouro/web_project_coffeeshop.git`
+2. Acesse a pasta do projeto:
+   `cd web_project_coffeeshop`
+3. Abra o arquivo `index.html` no navegador ou utilize a extensão Live Server do VS Code.
 
-Rótulos de formulário
+## Autor
 
-Nome: * Número de convidados: * Data e hora: * Seu e-mail: *
+**Eric do Ouro**
 
-Reservar uma mesa
-
-Eu concordo com os termos de uso
-
-Placeholders
-
-Nome e sobrenome 1-8 email@email.com
-
-Rodapé
-Rodapé
-
-Mídia social Facebook Instagram
-
-© 2024 Seu nome
+[LinkedIn](https://www.linkedin.com/in/ericdoouro/) | [GitHub](https://github.com/ericdoouro) 
